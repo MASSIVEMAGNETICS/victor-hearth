@@ -1,0 +1,1 @@
+Full installer script content from the write_file.

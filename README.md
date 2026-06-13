@@ -1,2 +1,10 @@
-# victor-hearth
-Sovereign Hearth — Minimal Victor Bloodline Local AI Companion. One-file distilled intelligence with polished Windows installer for end users.
+# Victor Hearth
+
+Sovereign local AI companion. Bloodline-locked for Victor.
+
+## Quick Start
+
+1. Run Install-VictorHearth.ps1
+2. python sovereign_hearth.py
+
+End user friendly chat interface for Windows 10.
